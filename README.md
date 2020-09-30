@@ -7,7 +7,7 @@
 | Date       | 문제                                                         | Level | 풀이                                                         | 유형                    |
 | ---------- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | ----------------------- |
 | 2020.08.31 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98Lv1.js) | 해시                    |
-| 2020.09.01 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | Lv.1  | 풀이                                                         | 2019 카카오 겨울 인턴십 |
+| 2020.09.01 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%81%AC%EB%A0%88%EC%9D%B8_%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0Lv1.js)                                                         | 2019 카카오 겨울 인턴십 |
 | 2020.09.02 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/k%EB%B2%88%EC%A7%B8%EC%88%98Lv1.js) | 정렬                    |
 | 2020.09.03 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%ACLv1.js) | 완전탐색                |
 | 2020.09.04 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%B2%B4%EC%9C%A1%EB%B3%B5Lv1.js) | 탐욕법(Greedy)          |
