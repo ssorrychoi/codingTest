@@ -22,7 +22,7 @@
 | 2020.09.29(보상휴가) | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%91%90_%EA%B0%9C_%EB%BD%91%EC%95%84%EC%84%9C_%EB%8D%94%ED%95%98%EA%B8%B0.js) | 월간 코드 챌린지 시즌1  |
 | 2020.09.30(추석연휴) | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js) | 연습문제                |
 | 2020.10.01(추석당일) | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916#) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_p%EC%99%80_y%EC%9D%98%20%EA%B0%9C%EC%88%98.js) | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
+| 2020.10.01(추석당일) | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js) | 2018 카카오 블라인드    |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
 
