@@ -26,8 +26,8 @@
 | 2020.10.02(추석연휴) | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js) | 연습문제                |
 | 2020.10.05           | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.js) | 연습문제                |
 | 2020.10.05           | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C_%EA%B9%80%EC%84%9C%EB%B0%A9_%EC%B0%BE%EA%B8%B0.js) | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
-|                      |                                                              |       |                                                              |                         |
-|                      |                                                              |       |                                                              |                         |
+| 2020.10.06           | 소수찾기                                                     | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.10.07           | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.10.08           | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | Lv.1  | 풀이                                                         | 연습문제                |
 |                      |                                                              |       |                                                              |                         |
 
