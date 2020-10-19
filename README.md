@@ -33,6 +33,6 @@
 | 2020.10.13           | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%95%BD%EC%88%98%EC%9D%98_%ED%95%A9.js) | 연습문제                |
 | 2020.10.13           | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%9D%B4%EC%83%81%ED%95%9C_%EB%AC%B8%EC%9E%90_%EB%A7%8C%EB%93%A4%EA%B8%B0.js) | 연습문제                |
 | 2020.10.15           | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | Lv.1  | 풀이                                                         | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
-|                      |                                                              |       |                                                              |                         |
+| 2020.10.17           | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.10.18           | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | Lv.1  | 풀이                                                         | 연습문제                |
 
