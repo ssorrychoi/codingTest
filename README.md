@@ -36,7 +36,7 @@
 | 2020.10.17           | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.js) | 연습문제                |
 | 2020.10.18           | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A0%95%EC%88%98_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js) | 연습문제                |
 | 2020.10.19           | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | Lv.1  | 풀이                                                         | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
+| 2020.10.20           | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | Lv.1  | 풀이                                                         | 연습문제                |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
