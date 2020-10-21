@@ -37,7 +37,7 @@
 | 2020.10.18           | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A0%95%EC%88%98_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js) | 연습문제                |
 | 2020.10.19           | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A0%95%EC%88%98_%EC%A0%9C%EA%B3%B1%EA%B7%BC_%ED%8C%90%EB%B3%84.js) | 연습문제                |
 | 2020.10.20           | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A0%9C%EC%9D%BC_%EC%9E%91%EC%9D%80_%EC%88%98_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js) | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
-|                      |                                                              |       |                                                              |                         |
+| 2020.10.21           | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.10.22           | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | Lv.1  | 풀이                                                         | 연습문제                |
 |                      |                                                              |       |                                                              |                         |
 
