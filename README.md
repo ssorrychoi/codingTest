@@ -42,7 +42,7 @@
 | 2020.10.25           | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.js) | 연습문제                |
 | 2020.10.26           | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.js) | 연습문제                |
 | 2020.10.26           | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%95%98%EC%83%A4%EB%93%9C_%EC%88%98.js) | 연습문제                |
-| 2020.10.27           | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | Lv.1  | 풀이                                                         | 연습문제                |
-| 2020.10.27           | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.10.27           | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.js) | 연습문제                |
+| 2020.10.27           | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.js) | 연습문제                |
 |                      |                                                              |       |                                                              |                         |
 
