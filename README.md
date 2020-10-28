@@ -44,5 +44,15 @@
 | 2020.10.26           | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%95%98%EC%83%A4%EB%93%9C_%EC%88%98.js) | 연습문제                |
 | 2020.10.27           | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.js) | 연습문제                |
 | 2020.10.27           | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.js) | 연습문제                |
+| 2020.10.28           | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/x%EB%A7%8C%ED%81%BC_%EA%B0%84%EA%B2%A9%EC%9D%B4_%EC%9E%88%EB%8A%94_n%EA%B0%9C%EC%9D%98_%EC%88%AB%EC%9E%90.js) | 연습문제                |
+| 2020.10.28           | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_%EB%B3%84%EC%B0%8D%EA%B8%B0.js) | 연습문제                |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
+|                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
 
