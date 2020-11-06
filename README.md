@@ -48,7 +48,7 @@
 | 2020.10.28           | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_%EB%B3%84%EC%B0%8D%EA%B8%B0.js) | 연습문제                |
 | 2020.11.02           | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) (+6점) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%ED%82%A4%ED%8C%A8%EB%93%9C_%EB%88%84%EB%A5%B4%EA%B8%B0.js) | 연습문제                |
 | 2020.11.04           | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982#)(+7점) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%5BWC2018%5D%EC%98%88%EC%82%B0.js) | 연습문제                |
-| 2020.11.05           | 실패율                                                       | Lv.1  | 풀이                                                         | 연습문제                |
+| 2020.11.05           | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889#)(+12점) | Lv.1  | 풀이                                                         | 연습문제                |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
