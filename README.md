@@ -50,7 +50,7 @@
 | 2020.11.04           | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982#)(+7점) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%5BWC2018%5D%EC%98%88%EC%82%B0.js) | 연습문제                |
 | 2020.11.05           | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889#)(+12점) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js) | 연습문제                |
 | 2020.11.09           | [[1차]다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=javascript)(+4점) | Lv.1  | [풀이](https://github.com/ssorrychoi/codingTest/blob/master/SourceCode/%5B2018%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%5D1%EC%B0%A8%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.js) | 연습문제                |
-|                      |                                                              |       |                                                              |                         |
+| 2020,11,11           | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.1  | 풀이                                                         | 스택/큐                 |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
 |                      |                                                              |       |                                                              |                         |
